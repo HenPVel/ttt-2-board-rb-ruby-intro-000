@@ -1,2 +1,4 @@
 # Define the variable board below.
-board=[" "," "," "," "," "," "," "," "," "]
+board=[" "," ","C"," "," "," "," "," "," "]
+
+puts board
